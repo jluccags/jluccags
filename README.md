@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👨🏻‍💻 João Lucca Gomes Silvestre
 
-<!--
-**jluccags/jluccags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento de Software  
+🚀 Em constante evolução
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre Mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de software e na construção de projetos práticos que consolidem conhecimento técnico e experiência real.
+
+Busco aprimoramento contínuo das minhas habilidades em programação, engenharia de software e resolução de problemas, mantendo disciplina nos estudos e evolução constante. Estou aberto a oportunidades que proporcionem aprendizado, desafios técnicos e crescimento profissional.
+
+## 📫 Conecte-se comigo
+
+🔗 [LinkedIn](linkedin.com/in/joão-lucca-gomes-280327387)
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+</p>
+
+---
+
+## 📊 Estatísticas do Perfil
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jluccags&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 💻 Linguagens Mais Utilizadas
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jluccags&theme=tokyonight"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jluccags&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=LuccaGS&theme=tokyonight"
+  />
+</p>

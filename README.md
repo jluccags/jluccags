@@ -15,7 +15,7 @@ Busco aprimoramento contínuo das minhas habilidades em programação, engenhari
 
 ## 📫 Conecte-se comigo
 
-🔗 [LinkedIn](linkedin.com/in/joão-lucca-gomes-280327387)
+🔗 [LinkedIn](www.linkedin.com/in/joão-lucca-gomes-280327387)
 
 ---
 

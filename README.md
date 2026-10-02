@@ -34,10 +34,11 @@ Busco uma oportunidade de estágio ou júnior onde eu possa aprender com um time
 
 ## Foco atual
 
-- Desenvolvimento backend com **Java**
+- Desenvolvimento backend com **Java** (Atualmente POO)
+- Estrutura de Dados (C#)
 - Boas práticas de engenharia de software (organização de código, versionamento, testes)
-- Fundamentos de **cibersegurança**
 - Modelagem e consultas em bancos de dados relacionais
+- Frontend (HTML, CSS e JS)
 
 ## Tecnologias
 

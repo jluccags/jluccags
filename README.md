@@ -1,6 +1,6 @@
 <!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0a0a0a,100:ffffff&height=230&section=header&text=JO%C3%83O%20LUCCA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVEDOR%20DE%20SOFTWARE&descSize=18&descColor=bdbdbd&descAlignY=58" alt="Cabeçalho"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,55:1f1f1f,75:6e6e6e,90:d0d0d0,100:ffffff&height=230&section=header&text=JO%C3%83O%20LUCCA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVEDOR%20DE%20SOFTWARE&descSize=18&descColor=bdbdbd&descAlignY=58" alt="Cabeçalho"/>
 </p>
 
 <p align="center">
